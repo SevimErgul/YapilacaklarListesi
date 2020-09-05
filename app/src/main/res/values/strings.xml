@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Yapılacaklar Listesi</string>
+    <string name="listeEditText">Notunuzu Giriniz</string>
+    <string name="sil">Sil</string>
+</resources>
